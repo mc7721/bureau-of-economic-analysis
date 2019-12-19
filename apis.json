@@ -1,0 +1,99 @@
+{
+    "name": "Bureau of Economic Analysis",
+    "description": "Official Bureau of Economic Analysis website. Source of US economic statistics including national income and product accounts (NIPAs), gross domestic product (GDP) and related measures of national, regional, industry and international accounts.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/11179-bureau-of-economic-analysis.jpg",
+    "tags": [
+        "api provider",
+        "data json",
+        "data provider",
+        "general data",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/bureau-of-economic-analysis\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "The Bureau of Economic Analysis (BEA) API",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/11179-bureau-of-economic-analysis.jpg",
+            "humanURL": "http:\/\/www.bea.gov",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/openapis\/the-bureau-of-economic-analysis-bea-api.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "http:\/\/www.bea.gov\/api\/data\/"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/www.bea.gov\/API\/signup\/index.cfm"
+        },
+        {
+            "type": "Email",
+            "url": "privacy@bea.gov"
+        },
+        {
+            "type": "Email",
+            "url": "webmaster@bea.gov"
+        },
+        {
+            "type": "Email",
+            "url": "gianna.marrone@bea.gov"
+        },
+        {
+            "type": "Email",
+            "url": "james.fetzer@bea.gov"
+        },
+        {
+            "type": "Email",
+            "url": "william.jolliff@bea.gov"
+        },
+        {
+            "type": "Email",
+            "url": "blaire.thomson@bea.gov"
+        },
+        {
+            "type": "Email",
+            "url": "Ethan.Schein@bea.gov"
+        },
+        {
+            "type": "Email",
+            "url": "chelsea.nelson@bea.gov"
+        },
+        {
+            "type": "Email",
+            "url": "kevin.barefoot@bea.gov"
+        },
+        {
+            "type": "Email",
+            "url": "peter.kuhbach@bea.gov"
+        },
+        {
+            "type": "Email",
+            "url": "developers@bea.gov"
+        },
+        {
+            "type": "FAQ",
+            "url": "http:\/\/www.bea.gov\/faq\/index.cfm"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/BEA_News"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.bea.gov"
+        }
+    ]
+}
