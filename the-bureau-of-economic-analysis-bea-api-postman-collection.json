@@ -1,0 +1,72 @@
+{
+    "id": "9fb60432444070ae9ad67e353ae9c1aa",
+    "name": "The Bureau of Economic Analysis (BEA) API",
+    "description": null,
+    "auth": null,
+    "events": null,
+    "variables": [],
+    "order": [],
+    "folders_order": [],
+    "folders": [],
+    "requests": [
+        {
+            "id": "936e5ae4863a1e1db42217b7919e5947",
+            "name": "Economic Statistics",
+            "url": "www.bea.gov\/api\/data?&UserID=Your-36CharacterKey&method=getparameterlist&datasetname=RegionalData&\/api\/data\/",
+            "description": "Economic Statistics",
+            "data": [],
+            "dataMode": "raw",
+            "headerData": null,
+            "method": "get",
+            "pathVariableData": [],
+            "queryParams": [
+                {
+                    "key": "datasetname",
+                    "description": "",
+                    "value": "",
+                    "equals": true,
+                    "enabled": true
+                },
+                {
+                    "key": "method",
+                    "description": "",
+                    "value": "",
+                    "equals": true,
+                    "enabled": true
+                },
+                {
+                    "key": "ParameterName",
+                    "description": "",
+                    "value": "",
+                    "equals": true,
+                    "enabled": true
+                },
+                {
+                    "key": "ResultFormat",
+                    "description": "",
+                    "value": "",
+                    "equals": true,
+                    "enabled": true
+                },
+                {
+                    "key": "UserID",
+                    "description": "Your user id.",
+                    "value": "",
+                    "equals": true,
+                    "enabled": true
+                }
+            ],
+            "auth": null,
+            "events": null,
+            "folder": null,
+            "protocolProfileBehavior": {
+                "disableBodyPruning": true
+            },
+            "responses": [],
+            "currentHelper": null,
+            "helperAttributes": null,
+            "collectionId": "9fb60432444070ae9ad67e353ae9c1aa",
+            "rawModeData": ""
+        }
+    ]
+}
