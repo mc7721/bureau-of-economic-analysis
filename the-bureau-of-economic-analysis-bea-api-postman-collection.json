@@ -1,5 +1,5 @@
 {
-    "id": "9fb60432444070ae9ad67e353ae9c1aa",
+    "id": "aa852adc7d5d5c2952329ce2c1dc6213",
     "name": "The Bureau of Economic Analysis (BEA) API",
     "description": null,
     "auth": null,
@@ -10,7 +10,7 @@
     "folders": [],
     "requests": [
         {
-            "id": "936e5ae4863a1e1db42217b7919e5947",
+            "id": "393fd6af7d74aa4b3a1a6179670953ef",
             "name": "Economic Statistics",
             "url": "www.bea.gov\/api\/data?&UserID=Your-36CharacterKey&method=getparameterlist&datasetname=RegionalData&\/api\/data\/",
             "description": "Economic Statistics",
@@ -65,7 +65,7 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "9fb60432444070ae9ad67e353ae9c1aa",
+            "collectionId": "aa852adc7d5d5c2952329ce2c1dc6213",
             "rawModeData": ""
         }
     ]
