@@ -9,8 +9,8 @@
         "general data",
         "have api"
     ],
-    "created": "2019-12-19",
-    "modified": "2019-12-19",
+    "created": "2019-12-20",
+    "modified": "2019-12-20",
     "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/bureau-of-economic-analysis\/master\/apis.json",
     "specificationVersion": "0.14",
     "apis": [
@@ -25,12 +25,20 @@
                 {
                     "type": "x-openapi",
                     "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/openapis\/the-bureau-of-economic-analysis-bea-api.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/bureau-of-economic-analysis\/master\/the-bureau-of-economic-analysis-bea-api-postman-collection.json"
                 }
             ]
         }
     ],
     "include": [],
     "x-common": [
+        {
+            "type": "APIs.json",
+            "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/apis.json"
+        },
         {
             "type": "Base",
             "url": "http:\/\/www.bea.gov\/api\/data\/"
